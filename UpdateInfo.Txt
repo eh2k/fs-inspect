@@ -1,0 +1,1 @@
+1.7	New Version available	https://github.com/eh2k/fs-inspect
