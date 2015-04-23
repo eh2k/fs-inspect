@@ -18,8 +18,8 @@
 #include <map>
 
 static const char* CURRENT_VERSION = "1.7";
-static const char* PROJECT_URL = "http://fs-inspect.googlecode.com";
-static const char* UPDATECHECK_URL = "http://fs-inspect.googlecode.com/files/UpdateCheck17.txt";
+static const char* PROJECT_URL = "https://github.com/eh2k/fs-inspect";
+static const char* UPDATECHECK_URL = "https://raw.githubusercontent.com/eh2k/fs-inspect/master/UpdateInfo.txt";
 
 struct ScopedNamedMutex
 {
