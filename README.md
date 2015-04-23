@@ -28,7 +28,7 @@ If you feel this utility is useful to you and want to support it and it's future
 
 <h2>Screenshot</h2>
 
-<img src="http://fs-inspect.googlecode.com/files/screenshot.png"/>
+<img src="https://raw.githubusercontent.com/eh2k/fs-inspect/master/doc/screenshot.png"/>
 
 <!-- 
 
