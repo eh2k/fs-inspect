@@ -12,7 +12,7 @@ In the post scan, the utility start searching for duplicates. All duplicates are
 It is possible to configure the duplicate search in the settings. To optimize the duplicate search, hashes are stored in a database. If a directory is inspected many a time, there is no need to compute the performance-expensive check-sum again. 
 
 <h2>Download</h2>
- * https://sourceforge.net/projects/fs-inspect/files/latest/download
+ * https://github.com/eh2k/fs-inspect/releases/download/1.7/fs-inspect-1.7_portable.zip
 
 
 <!-- 
